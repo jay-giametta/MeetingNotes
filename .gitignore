@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# AWS
+*.zip
+.aws-sam/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
